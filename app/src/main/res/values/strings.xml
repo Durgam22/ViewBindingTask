@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewBindingTask</string>
+    <string name="send_data">Send Data</string>
+    <string name="edit_somthing_to_send">edit somthing to send</string>
+    <string name="edit_something_to_send_data_back">edit somthing to send data back</string>
+    <string name="send_data_back">Send Data Back</string>
+</resources>
